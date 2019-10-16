@@ -1,0 +1,17 @@
+.banner {
+    display: flex;
+    background: url(assets/images/banner-1.png) no-repeat center center fixed;
+    background-size: auto;
+    height: 4em;
+    width: 75vw;
+    font-size: 36pt;
+}
+
+h1 {
+    padding-left: 86pt;
+    margin-left: 2em;
+    position: relative;
+    width: 4em;
+    height: 4em;
+
+}

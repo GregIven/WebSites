@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: white url(assets/images/photo1.jpg) no-repeat;
+}
+
+.container {
+    background-color: rgba(190, 192, 189, 0.856);
+    border-top: 60px solid rgba(255, 255, 255, 0.9);
+    margin-left: 60%;
+    padding-top: 85px;
+    }
+
+h1 {
+    padding: 0 7%;
+}
+
+/* .background {
+    position: relative; 
+    background-image: url('assets/images/photo1.jpg');
+}
+
+.background::after {
+    content: '';
+    top: 0; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url('assets/images/photo1.jpg');
+    padding: 1em;
+    background-color: rgba(0, 255, 255, 0.788);
+    background-size: cover;
+    position: absolute; 
+} */
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 88px;
+}

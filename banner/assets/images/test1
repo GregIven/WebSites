@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [ -d /images ]
+then
+    echo "Directory exists"
+fi
